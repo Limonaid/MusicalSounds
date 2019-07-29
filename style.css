@@ -1,11 +1,11 @@
 body {
-  background-color: black;
+  background-color: #EBFAFC;
 }
 h1 {
   display: flex;
   justify-content: center;
   font-size: 50px;
-  color: #FFD700;
+  color: #BFBFBF;
 }
 button {
   font-size: 50px;
@@ -13,13 +13,13 @@ button {
   height: 80px;
   width: 125px;
   border-radius: 25%;
-  border: solid white 2px;
+  border: solid #E5E5E5 5px;
   margin: 10px;
 
 }
 #Spacebar{
   width: 100%;
-  border-radius: 10%;
+  border-radius: 0%;
 }
 .Row1 {
   display: flex;
@@ -37,20 +37,20 @@ button {
   margin: 20px;
 }
 #Red {
-  background: Red;
+  background: #FCEBFA;
 }
 #Orange {
-  background: Orange;
+  background: #FCEDEB;
 }
 #Yellow {
-  background: Yellow;
+  background: #FAFCEB;
 }
 #Green {
-  background: Green;
+  background: #EBFCF6;
 }
 #Blue {
-  background: Blue;
+  background: #D5F4F9;
 }
 #Purple {
-  background: Purple;
+  background: #EBF2FC;
 }

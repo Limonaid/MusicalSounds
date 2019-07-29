@@ -16,6 +16,7 @@ var C = $('.C');
 var N = $('.N');
 var M = $('.M');
 var Comma = $('.,');
+var Space = $('.Spacebar')
 
 button.on("click",play);
 

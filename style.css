@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  color: #FFD700;
+}
+button {
+  font-size: 50px;
+  font-family: Vesper;
+  height: 80px;
+  width: 125px;
+  border-radius: 25%;
+  border: solid white 2px;
+  margin: 10px;
+
+}
+#Spacebar{
+  width: 100%;
+  border-radius: 10%;
+}
+.Row1 {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+.Row2 {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+.Row3 {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+#Red {
+  background: Red;
+}
+#Orange {
+  background: Orange;
+}
+#Yellow {
+  background: Yellow;
+}
+#Green {
+  background: Green;
+}
+#Blue {
+  background: Blue;
+}
+#Purple {
+  background: Purple;
+}
